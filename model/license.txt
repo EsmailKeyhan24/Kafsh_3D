@@ -1,0 +1,8 @@
+Model Information:
+* title:	Vintage 90's Vehicle
+* source:	https://sketchfab.com/3d-models/vintage-90s-vehicle-d4d34e7ec9ec4c3eb7a802a5dac85343
+* author:	golukumar (https://sketchfab.com/mortalityrexotable)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
